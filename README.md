@@ -1,3 +1,3 @@
 # social-network
 
-some new text of information how to set up my code
+some new text or information how to set up my code
